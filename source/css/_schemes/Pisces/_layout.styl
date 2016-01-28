@@ -121,3 +121,18 @@
   .footer-inner:before { float: right; }
 }
 
+if $pisces_layout == "fluid"
+  @media (min-width: 1300px) // 1366 * 768
+    .header
+    .container .main-inner
+      width 1320px
+    .content-wrap
+      width 1066px
+  @media (min-width: 1900px) // 1920 * 1200
+    .header
+    .container .main-inner
+      width 1874px
+    .content-wrap
+      width 1620px
+  .back-to-top
+    right 20px
