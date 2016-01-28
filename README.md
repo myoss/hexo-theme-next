@@ -14,6 +14,16 @@
 ![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
 
+## 增加宽屏自适应效果，在线效果请浏览[我的博客](http://myoss.github.io/)
+
+目前支持的分辨率
+  - 1366*768
+  - 1920*1200
+
+![1366*768](http://myoss.github.io/markdown/images/pisces-fluid-1366_768.png)
+![1920*1200](http://myoss.github.io/markdown/images/pisces-fluid-1920_1200.png)
+
+
 ## 贡献 Contributing
 
 接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的`Pull Request`。
